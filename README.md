@@ -1,47 +1,44 @@
-# 👋 Hi, I'm Jamal Osm
+# 👋 Hi, I'm Jamal Osm  
 
 🎯 **Backend Developer | 2+ Years Experience**  
-⚙️ Python, Django, FastAPI, REST APIs, PostgreSQL, Celery  
-🧠 AI/ML Enthusiast | Building real-time & smart systems
+⚙️ Django • FastAPI • Celery • PostgreSQL • REST APIs  
+🧠 AI/ML Enthusiast | Building real-time & smart systems  
 
 ---
 
-## 🔭 Current Projects
+## 🚀 Current Projects
+- 🔹 **Smart Content Categorization System**  
+  Django + React + AI + Metadata Enrichment + Elasticsearch  
 
-- **Smart Content Categorization System**  
-  Django + React + AI + Metadata Enrichment + Elasticsearch
+- 🔹 **EduDoc Recommender**  
+  Personalized recommendation engine (Django, Kafka, Spark, TensorFlow)  
 
-- **EduDoc Recommender**  
-  Personalized content recommendation engine for OTT  
-  (Django, Kafka, Spark, TensorFlow, PostgreSQL)
+- 🔹 **Flexi-DMS**  
+  Real-time Distributor Management System (Django + React + Celery + Tally/Busy)  
 
-- **Flexi-DMS**  
-  Real-time Distributor Management System  
-  (Django + React + Tally/Busy Integration + Celery)
-
-- **Face Recognition Attendance System**  
-  Built with `Python`, `OpenCV`, `dlib`, and `Tkinter`  
-  Features: Real-time face detection, attendance logging, GUI interface
+- 🔹 **Face Recognition Attendance System**  
+  Python + OpenCV + Tkinter + Dlib  
 
 ---
 
-## ✅ Skills & Tech Stack
-
-- **Languages:** Python, JavaScript, SQL  
-- **Backend:** Django, DRF, FastAPI, Celery, JWT  
-- **Frontend:** React, HTML/CSS  
-- **Database:** PostgreSQL, MySQL, SQLite  
-- **DevOps:** Docker, GitHub Actions  
-- **AI/ML:** OpenCV, TensorFlow, spaCy, Dlib  
-- **Others:** Redis, Elasticsearch, Pandas, NumPy
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
 
 ---
 
-## 📫 Connect with Me
-
-- ✉️ Email: `jamalosm.uniq@gmail.com`  
-- 💼 [LinkedIn](https://www.linkedin.com/in/naina-jamal2002)
-- 💻 [GitHub](https://github.com/jamalosm)
+## 📌 Featured Projects
+- [**Face Recognition System**](https://github.com/Jamalosm/Face-Recognition-System) 🔐 Tkinter + OpenCV + Anti-spoofing  
+- [**Smart Loan Management System**](https://github.com/Jamalosm/Smart-Loan-Management-System) 💰 Django + EMI Calculator  
+- [**Hospital Management System**](https://github.com/Jamalosm/Hospital-Management-System) 🏥 Django + MySQL  
 
 ---
 
+## 📫 Connect With Me
+- ✉️ [Email](mailto:jamalosm.uniq@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/naina-jamal2002)  
+- 💻 [GitHub](https://github.com/Jamalosm)  
