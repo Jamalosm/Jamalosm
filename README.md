@@ -16,13 +16,17 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages & Core:** Python, JavaScript, SQL  
-**Backend:** Django, DRF, FastAPI, Celery, JWT  
-**Frontend:** React, HTML/CSS, Tailwind  
-**Databases:** PostgreSQL, MySQL, SQLite, MongoDB  
-**Data & ML:** NumPy, Pandas, TensorFlow, OpenCV, spaCy, Dlib  
-**DevOps & Cloud:** Docker, Redis, GitHub Actions, AWS  
-**Search & Messaging:** Elasticsearch, Kafka  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+
 
 ---
 
