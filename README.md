@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Current Projects  
-🔹 **Portfolio Project** 🌐 Django + HTML/CSS + Tailwind  
+🔹 **Portfolio Project**[Live Demo](http://jamalosm.pythonanywhere.com) | 🌐 Django + HTML/CSS + Tailwind  
 🔹 **Smart Content Categorization System** (Django + React + AI + Elasticsearch)  
 🔹 **EduDoc Recommender** (Django + Kafka + Spark + TensorFlow + PostgreSQL)  
 🔹 **Flexi-DMS** (Django + React + Celery + Tally/Busy Integration)  
@@ -42,3 +42,4 @@
 ✉️ **Email:** jamalosm.uniq@gmail.com  
 💼 **LinkedIn:** [in/naina-jamal2002](https://linkedin.com/in/naina-jamal2002)  
 💻 **GitHub:** [Jamalosm](https://github.com/Jamalosm)  
+
